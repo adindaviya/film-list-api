@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Jumbo",
+    "category": "Film Animasi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Jumbo_2019_poster.jpg"
+  },
+  {
+    "title": "When Life Gives You Tangerines",
+    "category": "Drama Korea",
+    "image_url": "https://asianwiki.com/images/8/8c/When_Life_Gives_You_Tangerines-p1.jpg"
+  },
+  {
+    "title": "Love Scenery",
+    "category": "Drama Cina",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Love_Scenery.jpg"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "category": "Film Hollywood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg"
+  },
+  {
+    "title": "Dilan 1990",
+    "category": "Film Indonesia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/id/1/1d/Dilan_1990_poster.jpg"
+  },
+  {
+    "title": "True Beauty",
+    "category": "Drama Korea",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/True_Beauty_TV_series.jpg"
+  },
+  {
+    "title": "Mencuri Raden Saleh",
+    "category": "Film Indonesia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/id/3/30/Mencuri_Raden_Saleh_poster.jpg"
+  }
+]
