@@ -5,7 +5,7 @@
     "kategori": "Film Animasi",
     "status": "Sudah Ditonton",
     "tanggal": 16092025,
-    "imageUri": "https://adindaviya.github.io/film-list-api/images/interstellar.jpg"
+    "imageUri": "https://github.com/adindaviya/film-list-api/blob/main/1.jpg"
   },
   {
     "judul": "Coco",
@@ -13,7 +13,7 @@
     "kategori": "Film Animasi",
     "status": "Belum Ditonton",
     "tanggal": 15092025,
-    "imageUri": "https://adindaviya.github.io/film-list-api/images/coco.jpg"
+    "imageUri": "https://github.com/adindaviya/film-list-api/blob/main/2.jpg"
   },
   {
     "judul": "Inception",
@@ -21,7 +21,7 @@
     "kategori": "Film Animasi",
     "status": "Sudah Ditonton",
     "tanggal": 14092025,
-    "imageUri": "https://adindaviya.github.io/film-list-api/images/inception.jpg"
+    "imageUri": "https://github.com/adindaviya/film-list-api/blob/main/3.jpg"
   },
   {
     "judul": "Up",
@@ -29,7 +29,7 @@
     "kategori": "Film Animasi",
     "status": "Belum Ditonton",
     "tanggal": 13092025,
-    "imageUri": "https://adindaviya.github.io/film-list-api/images/up.jpg"
+    "imageUri": "https://github.com/adindaviya/film-list-api/blob/main/4.jpg"
   },
   {
     "judul": "Wall-E",
@@ -37,6 +37,6 @@
     "kategori": "Film Animasi",
     "status": "Sudah Ditonton",
     "tanggal": 12092025,
-    "imageUri": "https://adindaviya.github.io/film-list-api/images/wall-e.jpg"
+    "imageUri": "https://github.com/adindaviya/film-list-api/blob/main/5.jpg"
   }
 ]
